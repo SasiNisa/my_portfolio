@@ -20,5 +20,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}    # e.g., ci-cd@sasihub.com
           password: ${{ secrets.FTP_PASSWORD }}
           port: ${{ secrets.FTP_PORT }}            # usually 21
-          server-dir: /public_html/sasihub.com/        # folder on Bluehost
+          server-dir: /public_html/sasihub/        # folder on Bluehost
           protocol: ftps
