@@ -258,7 +258,7 @@ I am eager to apply my skills as a Software Developer or Web Developer, contribu
     <section class="portfolio-preview">
     <h2>Education and Experience</h2>
     <div class="grid">
-    <div class="card-education"><h3>EDUCATIONs</h3>
+    <div class="card-education"><h3>EDUCATION</h3>
       <p><b>Durham College - CANADA</b><br>
       Artificial Intelligence Analysis, Design, and Implementation
       (Graduate Certificate) August 2023<br>
