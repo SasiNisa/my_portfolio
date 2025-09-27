@@ -244,7 +244,7 @@ I am eager to apply my skills as a Software Developer or Web Developer, contribu
     <p><b>SOFT SKILLS  :</b>  &nbsp;&nbsp;&nbsp;Team Player,&nbsp; Learn independently,&nbsp; Deliver result </p>
     </div>
 
-     <div class="card-education"><h3>CERTIFICATIONS</h3>
+     <div class="card-education"><h3>CERTIFICATIONS FOLLOWING</h3>
       <p><b>CERTIFICATIONS </b> : Complete Python with DSA Bootcamp + LEETCODE Exercises – Udemy -At the finishing stage</p> 
       <p><b>CERTIFICATIONS </b> : Complete Python with DSA Bootcamp + LEETCODE Exercises – Udemy -At the finishing stage</p> 
 
@@ -258,7 +258,7 @@ I am eager to apply my skills as a Software Developer or Web Developer, contribu
     <section class="portfolio-preview">
     <h2>Education and Experience</h2>
     <div class="grid">
-    <div class="card-education"><h3>EDUCATIONs</h3>
+    <div class="card-education"><h3>EDUCATION</h3>
       <p><b>Durham College - CANADA</b><br>
       Artificial Intelligence Analysis, Design, and Implementation
       (Graduate Certificate) August 2023<br>
