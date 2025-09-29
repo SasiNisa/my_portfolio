@@ -18,14 +18,15 @@ The site is designed with modern web technologies and deployed on shared hosting
 
 ---
 
-### 🛠 Software Development Life Cycle (SDLC) practices
+### 🛠 Software Development Life Cycle (SDLC)
 
-- **Requirement Analysis:** Identified key features (shop page, user login/registration, cart, checkout) and non-functional needs (responsive UI, secure data handling).  
-- **Design:** Created database schema (users, products, orders) and UI wireframes; planned overall site architecture.  
-- **Implementation:** Built front-end with **HTML, CSS, Bootstrap, JS** and back-end with **PHP/MySQL**; used **JSON** for data exchange.  
-- **Testing:** Performed unit and integration testing; validated forms, cart operations, and cross-device responsiveness.  
-- **Deployment:** Deployed on hosting server via **FTP** with database setup.  
-- **Maintenance:** Documented code and planned for bug fixes and feature enhancements.  
+- **Requirement Analysis:** Defined portfolio goals (showcasing projects, skills, contact form, responsive design).  
+- **Design:** Created layout wireframes and navigation flow; planned sections like Home, About, Services, Projects, and Contact.  
+- **Implementation:** Developed front-end with **HTML, CSS, JavaScript**, and styled with **Bootstrap**; structured reusable components (navbar, footer, sections).  
+- **Testing:** Verified responsiveness across devices and browsers; tested navigation links, forms, and interactive elements.  
+- **Deployment:** Deployed to hosting server using **cPanel/FTP**.  
+- **Maintenance:** Updated project details, improved UI/UX, and added new features over time.  
+ 
 
 
 ## ⚙️ Features
