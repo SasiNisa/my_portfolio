@@ -7,7 +7,6 @@ A personal portfolio website showcasing my projects, skills, and coding journey 
 The site is designed with modern web technologies and deployed on shared hosting with automated CI/CD pipelines.
 
 ---
-
 ## 🚀 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
@@ -18,6 +17,16 @@ The site is designed with modern web technologies and deployed on shared hosting
 - **Hosting:** Bluehost (via FTPS)  
 
 ---
+
+### 🛠 Software Development Life Cycle (SDLC) practices
+
+- **Requirement Analysis:** Identified key features (shop page, user login/registration, cart, checkout) and non-functional needs (responsive UI, secure data handling).  
+- **Design:** Created database schema (users, products, orders) and UI wireframes; planned overall site architecture.  
+- **Implementation:** Built front-end with **HTML, CSS, Bootstrap, JS** and back-end with **PHP/MySQL**; used **JSON** for data exchange.  
+- **Testing:** Performed unit and integration testing; validated forms, cart operations, and cross-device responsiveness.  
+- **Deployment:** Deployed on hosting server via **FTP** with database setup.  
+- **Maintenance:** Documented code and planned for bug fixes and feature enhancements.  
+
 
 ## ⚙️ Features
 
